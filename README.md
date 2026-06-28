@@ -12,7 +12,7 @@
 
 - 💻 Aspiring Software Developer
 - 🎓 B.Tech CSE Student at Uttaranchal University
-- 🧩 Solved **100+ DSA Problems** in C++ using Striver's A2Z Sheet
+- 🧩 Solved **150+ DSA Problems** in C++ using Striver's A2Z Sheet
 - 🌐 Built and deployed a **Student Management System** using Django
 - 🚀 Currently learning Full-Stack Development
 - 🤖 Exploring Artificial Intelligence and Python
@@ -64,7 +64,7 @@ http://amanverma3911.pythonanywhere.com/students/
 
 ### 💻 DSA by Aman
 
-Over **100+ LeetCode solutions** in C++ following **Striver's A2Z DSA Sheet**, covering Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Bit Manipulation, and more.
+Over **150+ LeetCode solutions** in C++ following **Striver's A2Z DSA Sheet**, covering Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Bit Manipulation, and more.
 
 ---
 
