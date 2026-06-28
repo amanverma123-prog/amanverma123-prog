@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<h3 align="center">Aspiring Software Developer | Problem Solver | AI Enthusiast</h3>
+# Hi there, I'm Aman Verma 👋
 
-<p align="center">
-  <a href="https://github.com/amanverma123-prog">
-    <img src="https://komarev.com/ghpvc/?username=amanverma123-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+### 💻 Aspiring Software Developer
+
+🎓 B.Tech in Computer Science & Engineering @ Uttaranchal University
+
+🚀 Passionate about building scalable web applications, solving DSA problems, and continuously learning new technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering at **Uttaranchal University**
-- 💻 Aspiring **Software Developer**
-- 🧩 Solved **100+ DSA problems** in C++ using Striver's A2Z DSA Sheet
-- 🌱 Currently learning **Full-Stack Web Development**
-- 🚀 Built a **Student Management System** as a major project
-- 🤖 Exploring **Artificial Intelligence** and **Python**
-- 💼 Open to **Software Development Internship Opportunities**
+- 💻 Aspiring Software Developer
+- 🎓 B.Tech CSE Student at Uttaranchal University
+- 🧩 Solved **100+ DSA Problems** in C++ using Striver's A2Z Sheet
+- 🌐 Built and deployed a **Student Management System** using Django
+- 🚀 Currently learning Full-Stack Development
+- 🤖 Exploring Artificial Intelligence and Python
+- 💼 Open to Software Development Internship Opportunities
 
 ---
 
@@ -37,88 +36,85 @@
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎓 Student Management System
-A full-stack web application that manages student records, authentication, attendance, and academic information using HTML, CSS, JavaScript, PHP, and MySQL.
+
+A full-stack Student Management System built using **Django**, allowing users to manage student records through CRUD operations with a clean interface.
+
+🔗 **Live Demo:**  
+http://amanverma3911.pythonanywhere.com/students/
+
+---
 
 ### 💻 DSA by Aman
-Over **100+ LeetCode solutions** in C++ following Striver's A2Z DSA Sheet with optimized approaches and detailed explanations.
+
+Over **100+ LeetCode solutions** in C++ following **Striver's A2Z DSA Sheet**, covering Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Bit Manipulation, and more.
+
+---
 
 ### 🤖 Jarvis AI Assistant
-A Python-based desktop voice assistant capable of performing everyday tasks using speech recognition and text-to-speech.
+
+A Python-based desktop voice assistant capable of performing various desktop tasks using Speech Recognition and Text-to-Speech.
+
+---
 
 ### 🎮 Rock Paper Scissors Game
-A browser-based interactive game developed using HTML, CSS, and JavaScript.
+
+An interactive browser game built using HTML, CSS, and JavaScript.
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanverma123-prog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanverma123-prog&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma123-prog&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma123-prog&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amanverma123-prog&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=amanverma123-prog&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma123-prog&theme=tokyo-night" alt="Activity Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amanverma123-prog&theme=tokyo-night)
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Currently Working On
 
-- 🚀 Become a Software Developer
-- 📚 Master Data Structures & Algorithms
-- 🌐 Build Full-Stack Applications
-- 🤝 Contribute to Open Source
-- 💼 Secure a Software Development Internship
+- 🌐 Full-Stack Development with Django
+- 📚 Advanced Data Structures & Algorithms
+- 🤖 AI-powered Python Applications
+- 🚀 Building real-world software projects
+- 🌱 Open Source Contributions
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/aman-verma-175062334" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:amanverma3911@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/aman-verma-175062334
+- 📧 Email: amanverma3911@gmail.com
 
 ---
 
-<p align="center">
-⭐ <i>"Code. Learn. Build. Repeat."</i> ⭐
-</p>
+⭐ **"Code. Learn. Build. Repeat."**
